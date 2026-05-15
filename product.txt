@@ -1,0 +1,11 @@
+<html>
+<script>
+function add(x, y)
+{
+ return x+y;
+};
+
+let ans = add(10, 20);
+console.log('add ', add(10, 20));
+</script>
+</html>
